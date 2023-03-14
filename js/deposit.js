@@ -8,7 +8,6 @@ const newDepositAmount = parseFloat(newDepositAmountString)
 
 
 
-
 // Step-3: get the current deposit total
 // for non-input (element other than input textarea) use innerText to get the text
 const depositTotalElement = document.getElementById("deposit-total");

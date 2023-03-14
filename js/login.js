@@ -5,6 +5,7 @@ document.getElementById("btn-submit").addEventListener("click", function(){
    const emaileField = document.getElementById("user-email");
    const email = emaileField.value;
    // Step-3 get passwerd
+   
    //3.a: set id on the html element
    //3.b: get the element 
    //3.c: get the value from the element

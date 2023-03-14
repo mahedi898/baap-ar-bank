@@ -8,8 +8,6 @@
 5. get the previous balence total
 6. calculat new balence total 
 6.5. set the new balence total 
-
-
 7.clear the input fild
 */
 // step-1 
